@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loginSessionModule.git/static/css/main.b576d46b.css",
+    "main.js": "/loginSessionModule.git/static/js/main.0bcfe02c.js",
+    "static/js/453.cd348db4.chunk.js": "/loginSessionModule.git/static/js/453.cd348db4.chunk.js",
+    "index.html": "/loginSessionModule.git/index.html",
+    "main.b576d46b.css.map": "/loginSessionModule.git/static/css/main.b576d46b.css.map",
+    "main.0bcfe02c.js.map": "/loginSessionModule.git/static/js/main.0bcfe02c.js.map",
+    "453.cd348db4.chunk.js.map": "/loginSessionModule.git/static/js/453.cd348db4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b576d46b.css",
+    "static/js/main.0bcfe02c.js"
+  ]
+}
